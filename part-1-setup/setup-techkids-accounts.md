@@ -18,5 +18,9 @@
 
 ### 4. Slack \(Chat channel\)
 
+* Go to [https://slack.com](https://slack.com) and register a new account using your Techkids email
+* Go to [https://techkidssoftware.slack.com](https://techkidssoftware.slack.com) and sign in using your new Slack account
+* You can download desktop client via [https://slack.com/downloads](https://slack.com/downloads)
+
 
 
