@@ -9,7 +9,7 @@
 
 ### 2. GDrive \(for shared documents\)
 
-* Go to [https://accounts.google.com/SignUp](https://accounts.google.com/SignUp) to sign up a new Google account using Techkids email. Remember to choose **I prefer to use my current email address **then input your Techkids email.![](/assets/GoogleSignUpImage.png)
+* Go to [https://accounts.google.com/SignUp](https://accounts.google.com/SignUp) to sign up a new Google account using Techkids email. Remember to choose **I prefer to use my current email address **then input your Techkids email.![](/assets/google-signup-image.png)
 
 ### 3. Visual Studio Team Service \(Source code management & Project Management\)
 
