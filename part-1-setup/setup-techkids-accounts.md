@@ -11,7 +11,7 @@
 
 * Go to [https://accounts.google.com/SignUp](https://accounts.google.com/SignUp) to sign up a new Google account using Techkids email. Remember to choose **I prefer to use my current email address **then input your Techkids email.![](/assets/GoogleSignUpImage.png)
 
-### 3. Visual Studio \(Source code management & Project Management\)
+### 3. Visual Studio Team Service \(Source code management & Project Management\)
 
 * Go to [https://signup.live.com/signup](https://signup.live.com/signup) to sign up a new Microsoft account using Techkids email. 
 * After signing up, use the account to sign in to [https://techkids.visualstudio.com](https://techkids.visualstudio.com). This site is the main workspace of Techkids where we store all projects sourcecode, documents, track tasks, progress
